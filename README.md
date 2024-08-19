@@ -31,5 +31,5 @@ Esta aplicação é um serviço RESTful desenvolvido em Java utilizando o Spring
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITÓRIO>
+   git clone https://github.com/Thieles28/recepcao.git
    cd clientes
